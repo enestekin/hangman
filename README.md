@@ -1,5 +1,7 @@
 # hangman
 
+# Demo: https://enes-hangman.netlify.app/
+
 Created a hangman game using HTML/CSS/Javascript.
 
 Used local storage to save the data.
